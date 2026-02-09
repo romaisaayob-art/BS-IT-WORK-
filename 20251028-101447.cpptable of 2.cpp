@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 int number ;
-number=2;
+number=1;
 while(number<=10)
 {
 cout << number *2<< endl;
